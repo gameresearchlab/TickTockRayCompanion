@@ -37,9 +37,13 @@ public class RotationRead extends Service implements SensorEventListener, Google
         acceleration = sensorManager.getDefaultSensor(Sensor.TYPE_ACCELEROMETER);
 
         // every 20ms
-        sensorManager.registerListener(this, rotation, 50000); // every 20ms
+
+        //sensorManager.registerListener(this, rotation, 50000); // every 20ms
+        sensorManager.registerListener(this, rotation, SensorManager.SENSOR_DELAY_GAME);
         // every 20ms
-        sensorManager.registerListener(this, acceleration, 20000); // every 20ms
+        //sensorManager.registerListener(this, acceleration, 20000); // every 20ms
+        sensorManager.registerListener(this, acceleration, SensorManager.SENSOR_DELAY_GAME);
+
 
         // connect to Companion app
         mGoogleApiClient = new GoogleApiClient.Builder(this)
