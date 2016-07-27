@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/student/Desktop/TickTockRayCompanion/Watchcasting/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="/Users/student/Desktop/TickTockRayCompanion/Watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-22.0.0_538193aa7090c10ccd689c53c5252cf0cdf5ea13/classes.dex" />
+    </item>
+    <item
+        jar="/Users/student/Desktop/TickTockRayCompanion/Watchcasting/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="/Users/student/Desktop/TickTockRayCompanion/Watchcasting/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-22.0.0_538193aa7090c10ccd689c53c5252cf0cdf5ea13.jar" />
+    </item>
+    <item
+        jar="/Users/student/Desktop/TickTockRayCompanion/Watchcasting/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="5a8bad9f2cf28f76e92b5f689959d8e62a7fa0da">
+        <dex dex="/Users/student/Desktop/TickTockRayCompanion/Watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_44cf23e16df025d214fdbb7b63ccc99eda963d3f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/student/Desktop/TickTockRayCompanion/Watchcasting/build/intermediates/exploded-aar/com.google.android.support/wearable/1.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="58b928ccbaf9090c632f278d6bd31e1ae42f2457">
+        <dex dex="/Users/student/Desktop/TickTockRayCompanion/Watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.support-wearable-1.3.0_4165c0a5904d74b01460fae99f66f704e5d02a67/classes.dex" />
+    </item>
+    <item
+        jar="/Users/student/Desktop/TickTockRayCompanion/Watchcasting/build/intermediates/exploded-aar/com.google.android.support/wearable/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="58b928ccbaf9090c632f278d6bd31e1ae42f2457">
+        <dex dex="/Users/student/Desktop/TickTockRayCompanion/Watchcasting/build/intermediates/pre-dexed/debug/com.google.android.support-wearable-1.3.0_4165c0a5904d74b01460fae99f66f704e5d02a67.jar" />
+    </item>
+    <item
+        jar="/Users/student/Desktop/TickTockRayCompanion/Watchcasting/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="23560ba7ef04a6dc063db4390d853b0ca54e51b3">
+        <dex dex="/Users/student/Desktop/TickTockRayCompanion/Watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4819b28f0542238862799bd0246e2c72aa4f8bfb/classes.dex" />
+    </item>
+    <item
+        jar="/Users/student/Desktop/TickTockRayCompanion/Watchcasting/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/student/Desktop/TickTockRayCompanion/Watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-22.2.0_305b77ee441b99c05a44037cfe949f5979c5a441/classes.dex" />
+    </item>
+    <item
+        jar="/Users/student/Desktop/TickTockRayCompanion/Watchcasting/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/student/Desktop/TickTockRayCompanion/Watchcasting/build/intermediates/pre-dexed/debug/com.android.support-support-v4-22.2.0_305b77ee441b99c05a44037cfe949f5979c5a441.jar" />
+    </item>
+    <item
+        jar="/Users/student/Desktop/TickTockRayCompanion/Watchcasting/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
+        <dex dex="/Users/student/Desktop/TickTockRayCompanion/Watchcasting/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-8.1.0_5b0f948eaf545aa11f844ea92581e68373c37a72.jar" />
+    </item>
+    <item
+        jar="/Users/student/Desktop/TickTockRayCompanion/Watchcasting/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
+        <dex dex="/Users/student/Desktop/TickTockRayCompanion/Watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-8.1.0_5b0f948eaf545aa11f844ea92581e68373c37a72/classes.dex" />
+    </item>
+    <item
+        jar="/Users/student/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/student/Desktop/TickTockRayCompanion/Watchcasting/build/intermediates/pre-dexed/debug/support-annotations-22.2.0_3e491cd114cbfcd6430d3ccf941e962f55d5d742.jar" />
+    </item>
+    <item
+        jar="/Users/student/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/student/Desktop/TickTockRayCompanion/Watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.2.0_3e491cd114cbfcd6430d3ccf941e962f55d5d742/classes.dex" />
+    </item>
+    <item
+        jar="/Users/student/Desktop/TickTockRayCompanion/Watchcasting/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="97f3b099801a9ad9d70e835b9125273e986eb68d">
+        <dex dex="/Users/student/Desktop/TickTockRayCompanion/Watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-8.1.0_e25d68b961736ad3c741f87f6d09f6edf4f36c72/classes.dex" />
+    </item>
+    <item
+        jar="/Users/student/Desktop/TickTockRayCompanion/Watchcasting/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="97f3b099801a9ad9d70e835b9125273e986eb68d">
+        <dex dex="/Users/student/Desktop/TickTockRayCompanion/Watchcasting/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wearable-8.1.0_e25d68b961736ad3c741f87f6d09f6edf4f36c72.jar" />
+    </item>
+    <item
+        jar="/Users/student/Desktop/TickTockRayCompanion/Watchcasting/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/Users/student/Desktop/TickTockRayCompanion/Watchcasting/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-8.1.0_2b7104f80e02747d0eb1f00d98762e58893f8e10.jar" />
+    </item>
+    <item
+        jar="/Users/student/Desktop/TickTockRayCompanion/Watchcasting/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/Users/student/Desktop/TickTockRayCompanion/Watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-8.1.0_2b7104f80e02747d0eb1f00d98762e58893f8e10/classes.dex" />
+    </item>
+    <item
+        jar="/Users/student/Desktop/TickTockRayCompanion/Watchcasting/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/student/Desktop/TickTockRayCompanion/Watchcasting/build/intermediates/pre-dexed/debug/internal_impl-22.2.0_c45513f227e0a88918cb722daae260b198c5280f.jar" />
+    </item>
+    <item
+        jar="/Users/student/Desktop/TickTockRayCompanion/Watchcasting/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/student/Desktop/TickTockRayCompanion/Watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.2.0_c45513f227e0a88918cb722daae260b198c5280f/classes.dex" />
+    </item>
+
+</items>
