@@ -88,7 +88,7 @@ public class RotationRead extends Service implements SensorEventListener, Google
 
     @Override
     public void onConnected(Bundle bundle) {
-       Log.e("ROTATION", "Succesfully connected");
+       Log.e("ROTATION", "Successfully connected " + bundle);
     }
 
     @Override
@@ -112,7 +112,7 @@ public class RotationRead extends Service implements SensorEventListener, Google
                        Wearable.MessageApi.sendMessage(mGoogleApiClient, phone.getId(), "ORIENTATION", message.getBytes()).setResultCallback(new ResultCallback<MessageApi.SendMessageResult>() {
                            @Override
                            public void onResult(MessageApi.SendMessageResult sendMessageResult) {
-                               //Log.e("WearableSensor", "Sensor data sent" + sendMessageResult.toString());
+                              // Log.e("WearableSensor", "Sensor data sent " + sendMessageResult.toString());
                            }
                        });
                    }

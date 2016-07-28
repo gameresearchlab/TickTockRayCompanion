@@ -1,9 +1,6 @@
 package edu.csumb.hci.listenerplugin;
 
-
-import android.app.Activity;
 import android.content.Context;
-import android.content.Intent;
 import android.os.Bundle;
 import android.util.Log;
 
@@ -48,7 +45,7 @@ public class ListenToWearableService extends WearableListenerService {
                         .addApi(Wearable.API)
                         .build();
 
-                mGoogleApiClient.connect();
+                    mGoogleApiClient.connect();
 
                 Log.e("WATCHCASTING", "Watch connected? :" + mGoogleApiClient.isConnected());
 
@@ -57,7 +54,6 @@ public class ListenToWearableService extends WearableListenerService {
                     public void onMessageReceived(MessageEvent messageEvent) {
                         try {
                             message = (new String(messageEvent.getData()));
-
                         } catch (Exception e) {
                             e.printStackTrace();
                         }
@@ -65,20 +61,6 @@ public class ListenToWearableService extends WearableListenerService {
                 });
             }
         }).start();
-    }
-
-    public static String clarify(){
-        return "I am an idiot!";
-    }
-
-    public static String clarifySomeMore(String who){
-
-        return who + " is an idiot!";
-    }
-
-    public static void beginService(Activity act){
-        Intent intent = new Intent(act, ListenToWearableService.class);
-        act.startService(intent);
     }
 
     public static String getCurrentData(){
