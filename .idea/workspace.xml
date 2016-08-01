@@ -40,6 +40,7 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/MyApplication/listenerplugin/src/androidTest/java/edu/csumb/hci/listenerplugin/ApplicationTest.java" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/MyApplication/listenerplugin/src/main/AndroidManifest.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/MyApplication/listenerplugin/src/main/java/edu/csumb/hci/listenerplugin/ListenToWearableService.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApplication/listenerplugin/src/main/java/edu/csumb/hci/listenerplugin/ServiceConstructor.java" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/MyApplication/listenerplugin/src/main/res/values/strings.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/MyApplication/listenerplugin/src/test/java/edu/csumb/hci/listenerplugin/ExampleUnitTest.java" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/MyApplication/settings.gradle" afterPath="" />
@@ -61,10 +62,18 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/TickTockRayBase/Assets/Plugins/Android/Assets/oculussig_813d2faa.meta" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/TickTockRayBase/Assets/Plugins/Android/Assets/oculussig_c14597b1" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/TickTockRayBase/Assets/Plugins/Android/Assets/oculussig_c14597b1.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TickTockRayBase/Assets/Plugins/Android/appcompat-v7-23.4.0.aar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TickTockRayBase/Assets/Plugins/Android/appcompat-v7-23.4.0.aar.meta" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/TickTockRayBase/Assets/Plugins/Android/listenerplugin-debug.aar" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/TickTockRayBase/Assets/Plugins/Android/listenerplugin-debug.aar.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TickTockRayBase/Assets/Plugins/Android/play-services-base-9.0.2.aar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TickTockRayBase/Assets/Plugins/Android/play-services-base-9.0.2.aar.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TickTockRayBase/Assets/Plugins/Android/play-services-basement-9.0.2.aar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TickTockRayBase/Assets/Plugins/Android/play-services-basement-9.0.2.aar.meta" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/TickTockRayBase/Assets/Plugins/Android/play-services-wearable-9.0.2.aar" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/TickTockRayBase/Assets/Plugins/Android/play-services-wearable-9.0.2.aar.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TickTockRayBase/Assets/Plugins/Android/support-v4-23.4.0.aar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TickTockRayBase/Assets/Plugins/Android/support-v4-23.4.0.aar.meta" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/TickTockRayBase/Assets/TickTockRayPlugin" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/TickTockRayBase/Assets/TickTockRayPlugin.meta" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/TickTockRayBase/Library/AnnotationManager" afterPath="" />
@@ -748,6 +757,8 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/TickTockRayBase/Library/metadata/5e/5e17c04a0c23f164d9b22f5669d0710c.info" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/TickTockRayBase/Library/metadata/5f/5f32cd94baa94578a686d4b9d6b660f7" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/TickTockRayBase/Library/metadata/5f/5f32cd94baa94578a686d4b9d6b660f7.info" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TickTockRayBase/Library/metadata/71/716a96f65c339497b804412d2d0f1799" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TickTockRayBase/Library/metadata/71/716a96f65c339497b804412d2d0f1799.info" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/TickTockRayBase/Library/metadata/73/739bbd9f364b4268874f9fd86ab3beef" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/TickTockRayBase/Library/metadata/73/739bbd9f364b4268874f9fd86ab3beef.info" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/TickTockRayBase/Library/metadata/7c/7cbab2be89b54486bbd23a6fe637d30e" afterPath="" />
@@ -764,10 +775,14 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/TickTockRayBase/Library/metadata/89/89e152511b38d4688b1c0745e3ab77d1.info" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/TickTockRayBase/Library/metadata/8e/8e0cd8ed44d4412cbe0642067abc9e44" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/TickTockRayBase/Library/metadata/8e/8e0cd8ed44d4412cbe0642067abc9e44.info" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TickTockRayBase/Library/metadata/95/95c376582396f4d73a3ac7355c26383f" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TickTockRayBase/Library/metadata/95/95c376582396f4d73a3ac7355c26383f.info" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/TickTockRayBase/Library/metadata/97/97decbdab0634cdd991f8d23ddf0dead" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/TickTockRayBase/Library/metadata/97/97decbdab0634cdd991f8d23ddf0dead.info" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/TickTockRayBase/Library/metadata/9d/9d32237a7614f45388621e85de536b69" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/TickTockRayBase/Library/metadata/9d/9d32237a7614f45388621e85de536b69.info" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TickTockRayBase/Library/metadata/a6/a6cc7ed016d24467e82874db5d0ef4aa" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TickTockRayBase/Library/metadata/a6/a6cc7ed016d24467e82874db5d0ef4aa.info" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/TickTockRayBase/Library/metadata/aa/aa473cb3791b249fbb5140d08c31776f" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/TickTockRayBase/Library/metadata/aa/aa473cb3791b249fbb5140d08c31776f.info" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/TickTockRayBase/Library/metadata/ad/adebbd281f1a4ef3a30be7f21937e02f" afterPath="" />
@@ -780,6 +795,8 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/TickTockRayBase/Library/metadata/bf/bf0b2f54974a64a2bb90fdcab55240d1.info" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/TickTockRayBase/Library/metadata/cb/cb89e89ddeaab4b67852fad52adc638d" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/TickTockRayBase/Library/metadata/cb/cb89e89ddeaab4b67852fad52adc638d.info" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TickTockRayBase/Library/metadata/cc/cc9800d6ad675443f88650262c2d882a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TickTockRayBase/Library/metadata/cc/cc9800d6ad675443f88650262c2d882a.info" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/TickTockRayBase/Library/metadata/d4/d412d1e2eb69a49a998b66de9cd42ea1" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/TickTockRayBase/Library/metadata/d4/d412d1e2eb69a49a998b66de9cd42ea1.info" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/TickTockRayBase/Library/metadata/d7/d7fd542d6ca384d75b8007dd775eae74" afterPath="" />
@@ -819,14 +836,12 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/fileSnapshots.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/outputFileStates.bin" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/outputFileStates.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/taskArtifacts.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/tasks/_Watchcasting_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/2.10/tasks/_Watchcasting_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/tasks/_Watchcasting_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterPath="$PROJECT_DIR$/.gradle/2.10/tasks/_Watchcasting_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/tasks/_Watchcasting_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" afterPath="$PROJECT_DIR$/.gradle/2.10/tasks/_Watchcasting_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/tasks/_Watchcasting_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterPath="$PROJECT_DIR$/.gradle/2.10/tasks/_Watchcasting_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bs/TickTockRayBase/Assets/TickTockRayPlugin" afterPath="$PROJECT_DIR$/bs/TickTockRayBase/Assets/TickTockRayPlugin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Watchcasting/Watchcasting.iml" afterPath="$PROJECT_DIR$/Watchcasting/Watchcasting.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Watchcasting/src/main/java/com/kpicture/watchcasting/RotationRead.java" afterPath="$PROJECT_DIR$/Watchcasting/src/main/java/com/kpicture/watchcasting/RotationRead.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Watchcasting/build.gradle" afterPath="$PROJECT_DIR$/Watchcasting/build.gradle" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
     </list>
     <ignored path="TickTockRayCompanion.iws" />
@@ -853,29 +868,26 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="90" column="59" selection-start-line="90" selection-start-column="59" selection-end-line="90" selection-end-column="59" />
-              <folding>
-                <element signature="e#4150#4501#0" expanded="true" />
-                <element signature="e#4500#4501#0" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Watchcasting/src/main/java/com/kpicture/watchcasting/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.36821705">
+            <state vertical-scroll-proportion="0.0">
               <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Watchcasting/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="25" column="65" selection-start-line="25" selection-start-column="65" selection-end-line="25" selection-end-column="65" />
+            <state vertical-scroll-proportion="0.262697">
+              <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -2278,7 +2290,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="4408945047000" />
+        <entry key="$PROJECT_DIR$" value="4409363071000" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -2642,14 +2654,15 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Watchcasting/src/main/java/com/kpicture/watchcasting/RotationRead.java" />
+        <option value="$PROJECT_DIR$/Watchcasting/build.gradle" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="141" />
-    <option name="y" value="97" />
-    <option name="width" value="2099" />
-    <option name="height" value="1271" />
+    <option name="x" value="106" />
+    <option name="y" value="212" />
+    <option name="width" value="1763" />
+    <option name="height" value="978" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -2676,6 +2689,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
       <pane id="AndroidView">
         <subPane>
           <PATH>
@@ -2703,67 +2720,9 @@
               <option name="myItemId" value="Watchcasting" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="values" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TickTockRayCompanion" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Watchcasting" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TickTockRayCompanion" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Watchcasting" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="watchcasting" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TickTockRayCompanion" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Watchcasting" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="manifests" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidManifestsGroupNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
-      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -2945,15 +2904,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="141" y="97" width="2099" height="1271" extended-state="0" />
-    <editor active="true" />
+    <frame x="106" y="212" width="1763" height="978" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3056277" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3051044" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -2966,8 +2925,8 @@
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27369955" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32990655" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2736781" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32946634" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -2996,87 +2955,16 @@
     <entry file="file://$PROJECT_DIR$/Watchcasting/src/main/java/com/kpicture/watchcasting/RotationRead.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#4150#4501#0" expanded="true" />
-            <element signature="e#4500#4501#0" expanded="true" />
-          </folding>
+          <caret line="90" column="59" selection-start-line="90" selection-start-column="59" selection-end-line="90" selection-end-column="59" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Watchcasting/src/main/java/com/kpicture/watchcasting/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Watchcasting/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="25" column="65" selection-start-line="25" selection-start-column="65" selection-end-line="25" selection-end-column="65" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Watchcasting/src/main/java/com/kpicture/watchcasting/RotationRead.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#4150#4501#0" expanded="true" />
-            <element signature="e#4500#4501#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Watchcasting/src/main/java/com/kpicture/watchcasting/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Watchcasting/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="25" column="65" selection-start-line="25" selection-start-column="65" selection-end-line="25" selection-end-column="65" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Watchcasting/src/main/java/com/kpicture/watchcasting/RotationRead.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#4150#4501#0" expanded="true" />
-            <element signature="e#4500#4501#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Watchcasting/src/main/java/com/kpicture/watchcasting/RotationRead.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#4150#4501#0" expanded="true" />
-            <element signature="e#4500#4501#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Watchcasting/src/main/java/com/kpicture/watchcasting/RotationRead.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#4150#4501#0" expanded="true" />
-            <element signature="e#4500#4501#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -3092,17 +2980,134 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="90" column="59" selection-start-line="90" selection-start-column="59" selection-end-line="90" selection-end-column="59" />
-          <folding>
-            <element signature="e#4150#4501#0" expanded="true" />
-            <element signature="e#4500#4501#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Watchcasting/src/main/java/com/kpicture/watchcasting/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.36821705">
+        <state vertical-scroll-proportion="0.0">
           <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Watchcasting/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="25" column="65" selection-start-line="25" selection-start-column="65" selection-end-line="25" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Watchcasting/src/main/java/com/kpicture/watchcasting/RotationRead.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Watchcasting/src/main/java/com/kpicture/watchcasting/RotationRead.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Watchcasting/src/main/java/com/kpicture/watchcasting/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Watchcasting/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="25" column="65" selection-start-line="25" selection-start-column="65" selection-end-line="25" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Watchcasting/src/main/java/com/kpicture/watchcasting/RotationRead.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Watchcasting/src/main/java/com/kpicture/watchcasting/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Watchcasting/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="25" column="65" selection-start-line="25" selection-start-column="65" selection-end-line="25" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Watchcasting/src/main/java/com/kpicture/watchcasting/RotationRead.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Watchcasting/src/main/java/com/kpicture/watchcasting/RotationRead.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Watchcasting/src/main/java/com/kpicture/watchcasting/RotationRead.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Watchcasting/src/main/java/com/kpicture/watchcasting/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Watchcasting/src/main/java/com/kpicture/watchcasting/RotationRead.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="90" column="59" selection-start-line="90" selection-start-column="59" selection-end-line="90" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Watchcasting/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.262697">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
           <folding />
         </state>
       </provider>

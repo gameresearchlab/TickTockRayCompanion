@@ -6,7 +6,8 @@ android {
     buildToolsVersion "23.0.2"
 
     defaultConfig {
-        applicationId "com.kpicture.watchcasting"
+        //applicationId "com.kpicture.watchcasting"
+        applicationId "edu.csumb.hci"
         minSdkVersion 21
         targetSdkVersion 23
         versionCode 1
